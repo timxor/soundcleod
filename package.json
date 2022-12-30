@@ -65,7 +65,7 @@
     "gulp": "^4.0.1",
     "gulp-rename": "^1.4.0",
     "gulp-to-ico": "^1.0.0",
-    "mocha": "^6.1.4",
+    "mocha": "^10.2.0",
     "prettier": "^1.18.2",
     "spectron": "^9.0.0",
     "svg2png": "^4.1.1",
